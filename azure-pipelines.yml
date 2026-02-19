@@ -2,7 +2,7 @@ trigger:
 - main
 
 variables:
-  azureServiceConnectionId: '750daa94-f945-4c92-b72e-8c272fe68be2'
+  azureServiceConnectionId: '94d3fc28-5e30-4caf-9f11-4da8f60b8274'
   webAppName: 'kazuhikowebapp'
   pythonVersion: '3.11'
 
